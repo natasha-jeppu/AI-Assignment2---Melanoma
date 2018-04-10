@@ -8,5 +8,6 @@ Observations: <br>
   -F1 score for Non-melanoma :0.904109589041.
 
 2. Design a CNN to perform image binarization. <br>
+Reference: https://arxiv.org/abs/1708.03276 <br>
 Observations: <br>
   -Test accuracy = 80.94% 
